@@ -1,7 +1,7 @@
-<!doctype html>
+
 <html>
 <head>
-<title>TACOS DE RES</title>
+
 </head>
 <body bgcolor=#F7DC6F>
 <p><h2> TACOS DE RES </h2></p>
